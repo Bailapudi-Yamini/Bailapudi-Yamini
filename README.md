@@ -8,15 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Multi-criteria Agriculture System using Machine Learning for Crop and Fertilizer prediction**
-
-- 🌱 I’m currently learning **cloud computing**
-
-- 👯 I’m looking to collaborate on **cloud native projects**
-
-- 🤝 I’m looking for help with **Cloud security**
-
-- 📫 How to reach me **yaminibailapudi22@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
